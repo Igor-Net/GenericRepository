@@ -1,0 +1,11 @@
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\bin\Debug\netcoreapp2.1\GRP.Data.deps.json
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\bin\Debug\netcoreapp2.1\GRP.Data.dll
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\bin\Debug\netcoreapp2.1\GRP.Data.pdb
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\obj\Debug\netcoreapp2.1\GRP.Data.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\obj\Debug\netcoreapp2.1\GRP.Data.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\obj\Debug\netcoreapp2.1\GRP.Data.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\obj\Debug\netcoreapp2.1\GRP.Data.AssemblyInfo.cs
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\obj\Debug\netcoreapp2.1\GRP.Data.dll
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\obj\Debug\netcoreapp2.1\GRP.Data.pdb
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\bin\Debug\netcoreapp2.1\GRP.Data.runtimeconfig.json
+C:\Users\Igor\Desktop\ASP.NET-Core-MVC-Example-master\GenericRepository\GRP.Data\bin\Debug\netcoreapp2.1\GRP.Data.runtimeconfig.dev.json
